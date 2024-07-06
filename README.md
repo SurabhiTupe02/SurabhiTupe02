@@ -1,6 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=50&color=FDE8E9&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C;I'm+Surabhi+Tupe!" alt="Typing SVG" /></a>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/images/b24460d29cfb2126afbba78c2b02a0d3/tenor.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek0348&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek0348" /> </p>
 
