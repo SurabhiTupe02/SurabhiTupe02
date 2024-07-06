@@ -15,7 +15,6 @@
 <p align="left">
 <a href="https://twitter.com/@surbhi_tupe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abh1sharma" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/surabhi-tupe-8ba0b1264 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-sharma-6ab7041b0" height="30" width="40" /></a>
-<a href="https://instagram.com/abhi_0348" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhi_0348" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
